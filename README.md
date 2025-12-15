@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hello, my name is Somang Lee, I am a Computer Science student @ ASU. Welcome to my Github Portfolio! Here you'll find a collection of my portfolio projects as well as some personal endeavors.
-- 🔭 Note: My portfolio projects are labelled "-project" at the end. 
-- 🌱 I’m currently learning three.js
 - 📫 How to reach me: Feel free to reach out to me at my school email salee25@asu.edu or my personal email somangaiyannalee@gmail.com
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=somangalee&show_icons=true&locale=en&layout=compact" alt="somangalee" /></p>
